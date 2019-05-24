@@ -18,3 +18,5 @@
 * [MYSQL数据库](MYSQL数据库/建表规约.md)
   * [建表规约](MYSQL数据库/建表规约.md)
   * [索引规约](MYSQL数据库/索引规约.md)
+  * [SQL语句](MYSQL数据库/SQL语句.md)
+  * [ORM映射](MYSQL数据库/ORM映射)
